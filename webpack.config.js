@@ -5,7 +5,7 @@ module.exports = {
   entry: "./src/main.js",
   output: {
     path: path.resolve("dist"),
-    filename: "game.js",
+    filename: "main.js",
     publicPath: "/dist/",
   },
   resolve: {
